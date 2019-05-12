@@ -157,6 +157,7 @@ The above mount the filesystem image "rootfs.ext4" as /dev/sda. If is not detect
 
 
 If everything is ok you must see something like this:
+![kvm-runnig.png?raw=true](kvm-runnig.png?raw=true)
 
 
 ## Credits:
